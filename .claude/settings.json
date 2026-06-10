@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Edit(tictactoe.html)",
+      "Write(tictactoe.html)",
+      "Bash(Start-Process tictactoe.html)",
+      "Bash(start tictactoe.html)"
+    ],
+    "deny": []
+  }
+}
