@@ -1,1 +1,2 @@
-Inhalte/Videos/
+Inhalte/Videos/*
+!Inhalte/Videos/Vorstellungsvideo_Website.mp4
